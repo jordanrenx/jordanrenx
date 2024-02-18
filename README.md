@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jordanrenx
-- 🌱 I’m currently learning ... SQL and Python
-- 😄 Pronouns: ... she/her
+
 
 
 <!---
